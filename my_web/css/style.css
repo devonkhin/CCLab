@@ -51,7 +51,7 @@ a{
     font-size:30px;
 }
 a:hover{
-    color: red;
+    color: orange;
 }
 
 img{
@@ -61,4 +61,15 @@ img{
 
 #nyuimg{
     text-align: center;
+}
+
+canvas{
+    border: 10px solid black;
+    display: block;
+    margin: auto;
+}
+
+#myp5{
+    border: 10px solid red;
+    
 }
