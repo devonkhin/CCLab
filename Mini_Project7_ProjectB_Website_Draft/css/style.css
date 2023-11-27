@@ -1,0 +1,124 @@
+html,body{
+  background-color: rgb(	255, 234, 238);
+}
+
+#title{
+  width: auto;
+  text-align:center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  color:rgb(	255, 60, 98);
+}	
+
+#subtitle{
+  width: auto;
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  font-size:18px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(	255, 61, 82);
+}
+
+#Elevator_Pitch{
+  width: auto;
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(255, 61, 82);
+}
+
+#link{
+  width: auto;
+  text-align:left;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 20px;
+}
+
+#abstract{
+  position: relative;
+  width:auto;
+  text-align:left;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: rgb(255, 35, 77);
+}
+
+#lifecycle img{
+  width:80%;
+}
+
+#lifecycle{
+  display:inline-block;
+}
+
+#canvasWrapper{
+  text-align: center;
+  display:block;
+  margin:auto;
+}
+
+#display{
+  margin-top: 10px;
+  margin-bottom: 50px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#process1{
+  width:auto;
+  text-align:left;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: rgb(255, 35, 77);
+}
+
+#process2{
+  width:auto;
+  text-align:left;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: rgb(255, 35, 77);
+}
+
+#process3{
+  width:auto;
+  text-align:left;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: rgb(255, 35, 77);
+}
+
+p {
+  margin: 30px;
+  text-indent:60px;
+  line-height:2;
+  color: rgb(255, 107, 135);
+}
+
