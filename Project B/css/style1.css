@@ -1,0 +1,105 @@
+html,body{
+  background-color: rgb(	255, 234, 238);
+}
+
+#title{
+  width: auto;
+  text-align:center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:35px;
+  letter-spacing: -2px;;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  color:rgb(	255, 60, 98);
+}	
+
+#banner{
+  border: solid black; 
+  width: 100%;
+  height: 450px;
+  position: relative; 
+}
+
+#cherryblossom_banner{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#Blooming_Season{
+  position: relative;
+  width:auto;
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: rgb(255, 35, 77);
+}
+
+#Description{
+  width:auto;
+  text-align:left;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: rgb(255, 35, 77);
+}
+
+#lifecycle img{
+  width:80%;
+}
+
+#lifecycle{
+  display:inline-block;
+}
+
+#display{
+  margin-top: 10px;
+  margin-bottom: 50px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Instruction{
+  width:auto;
+  text-align:center;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 25px;
+  margin-left: 80px;
+  margin-right: 80px;
+  padding-top: 30px;
+  color: rgb(255, 35, 77);
+}
+
+p {
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: left;
+  font-size: 26px;
+  text-indent:60px;
+  line-height:2;
+  color: rgb(255, 107, 135);
+}
+
+#button img{
+  width: 100%;
+  height: 100%;
+}
+
+#button{
+  width: 120px;
+  height: 120px;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
